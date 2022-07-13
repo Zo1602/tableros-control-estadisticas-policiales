@@ -1,2 +1,3 @@
-# tableros-control-estadisticas-policiales
-Tablero de control de  estadísticas policiales de los cantones de Costa Rica
+# Tablero-control-estadisticas-policiales-cantones
+Tarea 3: Tablero de control sobre datos de estadísticas policiales en los cantones de Costa Rica.
+Estudiantes: Rebeca Céspedes Serrano y María Sofía Moya Bonilla.
